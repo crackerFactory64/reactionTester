@@ -1,0 +1,37 @@
+body{
+
+        background-color: dimgrey;
+        font-family: Helvetica, sans-serif;
+        color: aquamarine;
+
+    }
+
+    #playArea {
+
+        background-color: white;
+        margin: 0 auto;
+        border: 1px aquamarine solid;
+        width: 1400px;
+        height: 800px;                
+
+    }
+
+    #startButton{
+
+        border-radius: 10%;
+        padding: 0 5px;
+        background-color: Green;
+        color: white;         
+        width: 85px;
+        margin: 0 auto; 
+
+    }
+
+
+    #shape {
+
+        border: black 1px solid;                
+        display: none;
+        position: relative;
+
+}
